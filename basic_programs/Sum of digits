@@ -4,6 +4,7 @@ int t, n, a, sum=0, i;
 scanf("%d", &t);
 for(i=0; i<t; i++)
 { sum=0;
+printf("enter the value of n: \n");
 scanf("%d\n", &n);
 while(n!=0)
 {
