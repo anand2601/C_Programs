@@ -7,7 +7,7 @@ int main(){
 	printf("Enter second number : ");
 	scanf("%d", &num2);					// Taking the first number from the user as an input
 
-	printf("SUM of the two numbers %d and %d : %d\n", num1, num2, num1+num2); // Printing out the sum directly to the user
+	printf("SUM of the two numbers %d and %d is: %d\n", num1, num2, num1+num2); // Printing out the sum directly to the user
 															    // Here (+) operator can be replaced by [ submission(-), multiplication(*), division(/) and modules(%)]
 
 	return 0;
